@@ -1,7 +1,7 @@
 # Fibonacci Sequence Printer
 
 **Fibonacci Sequence Printer** is a minimal Python utility that prints the Fibonacci series up to a given limit. It provides a simple demonstration of iterative control flow and number generation, great for educational use or basic scripting.
-![Fibonacci spiral](/images/fibo.png)
+![Fibonacci spiral](https://upload.wikimedia.org/wikipedia/commons/9/93/Fibonacci_spiral_34.svg)
 
 
 ---
