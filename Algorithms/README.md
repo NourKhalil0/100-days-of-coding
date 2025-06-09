@@ -1,1 +1,1 @@
-# Algoritmer i ulike språk
+# most known algorithms
