@@ -1,6 +1,5 @@
 ## Port Scanner
 A simple and efficient Python port scanner that checks for open ports on a specified IP address.
-![](https://www.whatsupgold.com/images/librariesprovider2/blogs/2019/08/what-is-port-scanning.png?sfvrsn=b249eaa5_3)
 --- 
 
 ## Features
@@ -62,6 +61,6 @@ Higher values = more thorough, but slower scanning
 ---
 ## Important Notes
 ![](https://raw.githubusercontent.com/NourKhalil0/100-days-of-coding/main/images/_Pngtree_black_exclamation_mark_warning_sign_5489468-removebg-preview.png)
-```css
-⚠️ Legal Notice: Only use this tool on networks and systems you own or have explicit permission to test. Unauthorized port scanning may be illegal in your jurisdiction.
-⚠️ Ethical Use: This tool is intended for legitimate security testing, network diagnostics, and educational purposes only.
+
+1. ⚠️ Legal Notice: Only use this tool on networks and systems you own or have explicit permission to test. Unauthorized port scanning may be illegal in your jurisdiction.
+2. ⚠️ Ethical Use: This tool is intended for legitimate security testing, network diagnostics, and educational purposes only.
