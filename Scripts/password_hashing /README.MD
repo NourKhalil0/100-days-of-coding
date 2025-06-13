@@ -49,7 +49,7 @@ While the internal mechanics are complex, the usage is simple in most programmin
 ![Screenshot](https://raw.githubusercontent.com/NourKhalil0/100-days-of-coding/main/images/Screenshot%202025-06-13%20at%2021.06.33.png)
 
 ***Now what did you notice?***
-- I hope by now you noticed that the first example had a longer password than the second one,
+- I hope by now you noticed that the first example had a longer password than the second one, but the outpunt on both pictures have the same length.
     this is during the algorithm which processes data in blocks and compresses it into a fixed length output to ensure consistent and secure fingerprints
 ---
 ## Algorithm simulator in code:
