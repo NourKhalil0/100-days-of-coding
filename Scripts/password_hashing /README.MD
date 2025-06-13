@@ -54,7 +54,7 @@ While the internal mechanics are complex, the usage is simple in most programmin
 ---
 ## Algorithm simulator in code:
 ***Now i wanted to show you the actual algorithm. But, it would be a very long code.
-to understand the basic aidea of how it can generate the same length, check out this code:***
+to understand the basic idea of how it can generate the same length, check out this code:***
 ````python
     def sha256_simulator(data):
     # this is just a simolator, not real SHA-256
