@@ -32,6 +32,12 @@ The script performs the following steps:
 
 - **Python 3.x**
 - **Scapy** library
+> **Note**: ⚠️ This script uses raw packet crafting and sending. It may require administrative privileges
+---
+## ⚠️Disclaimer
+This script sends low level TCP and HTTP packets to a user specified target. It is intended strictly for educational and authorized testing purposes only.
+
+Do not use this script against systems or networks without explicit permission, doing so may violate laws or organizational policies.
 ---
 ## Input
 ````
