@@ -1,4 +1,4 @@
-# TCP SYN Scan Detector with Scapy
+# TCP SYN Scan Detector with Scapy.
 
 This is a simple Python script using **Scapy** to detect potential TCP SYN-based port scans (like those performed with Nmap). It sniffs incoming traffic and flags suspicious IPs that send a high number of SYN packets in a short time.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyv7uAFL5i1AK6YF0OqoPyUF6h9GfB8EYzig4-zM1Tz4I2H3mVTKggdK23R1rCGkqG5ZtnKAYUWGnyfJBQ2Xs8q0-CozpHxrHd83ptzZE37QOATobB___azUfDsqubbqfazDRkFc836bDo3OkykdanwMWB5K8QnQap9AyjplhDzq-YRBR1hes2BE8JHF8/s16000/SYN.webp)
