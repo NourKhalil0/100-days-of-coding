@@ -1,4 +1,4 @@
-## Port Scanner
+## Port Scanner.
 A simple and efficient Python port scanner that checks for open ports on a specified IP address.
 --- 
 
