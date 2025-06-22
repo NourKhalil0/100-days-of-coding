@@ -13,7 +13,7 @@ A DDoS (Distributed Denial of Service) attack is a malicious attempt to disrupt 
 
 - A DDoS attack uses multiple compromised systems (often part of a botnet) to flood a target with requests or data.
 - The goal is to exhaust the target’s bandwidth, memory, or processing power, causing a crash or severe slowdowns.
-- Its like feeding the server with to match "fake" requests, so the severer shuts down.
+- Its like feeding the server with too much "fake" requests, so the severer shuts down.
 
 ---
 
