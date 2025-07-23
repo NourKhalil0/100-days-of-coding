@@ -1,0 +1,10 @@
+2025-07-23 22:04:23,238: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-07-23 22:04:27,318: Spesialtast: Key.shift
+2025-07-23 22:04:28,372: Tast: H
+2025-07-23 22:04:29,484: Tast: E
+2025-07-23 22:04:30,608: Tast: I
+
+2025-07-23 22:04:32,103: Tast: Y
+2025-07-23 22:04:32,448: Tast: O
+2025-07-23 22:04:32,780: Tast: U
+
